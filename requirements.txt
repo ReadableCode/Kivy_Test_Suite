@@ -1,0 +1,7 @@
+kivy
+buildozer
+cython
+cffi
+setuptools
+wheel
+cython
